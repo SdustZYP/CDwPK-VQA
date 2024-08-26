@@ -1,0 +1,3627 @@
+{
+  "info": {
+    "description": "This is v2.0 of the VQA dataset.",
+    "url": "http://visualqa.org",
+    "version": "2.0",
+    "year": 2017,
+    "contributor": "VQA Team",
+    "date_created": "2017-04-26 17:07:13"
+  },
+  "task_type": "Open-Ended",
+  "data_type": "mscoco",
+  "license": {
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "name": "Creative Commons Attribution 4.0 International License"
+  },
+  "data_subtype": "train2014",
+  "questions": [
+    {
+      "image_id": 1722,
+      "question": "图像中有几个果实?",
+      "question_id": 1722000
+    },
+    {
+      "image_id": 1722,
+      "question": "图像中有几个病斑?",
+      "question_id": 1722001
+    },
+    {
+      "image_id": 1722,
+      "question": "果实的主要颜色是什么?",
+      "question_id": 1722002
+    },
+    {
+      "image_id": 1722,
+      "question": "病斑表面的形状是什么?",
+      "question_id": 1722003
+    },
+    {
+      "image_id": 1722,
+      "question": "病斑中心是否凹陷?",
+      "question_id": 1722004
+    },
+    {
+      "image_id": 1722,
+      "question": "病斑的颜色是什么?",
+      "question_id": 1722005
+    },
+    {
+      "image_id": 1722,
+      "question": "图像中的病斑的疾病是枣炭疽病吗?",
+      "question_id": 1722006
+    },
+    {
+      "image_id": 1722,
+      "question": "果实的疾病是什么?",
+      "question_id": 1722007
+    },
+    {
+      "image_id": 1723,
+      "question": "图像中有几个果实?",
+      "question_id": 1723000
+    },
+    {
+      "image_id": 1723,
+      "question": "图像中有几个病斑?",
+      "question_id": 1723001
+    },
+    {
+      "image_id": 1723,
+      "question": "病斑表面的形状是什么?",
+      "question_id": 1723002
+    },
+    {
+      "image_id": 1723,
+      "question": "病斑的表面是否光滑平整?",
+      "question_id": 1723003
+    },
+    {
+      "image_id": 1723,
+      "question": "病斑的表面是什么形态?",
+      "question_id": 1723004
+    },
+    {
+      "image_id": 1723,
+      "question": "病斑是什么颜色?",
+      "question_id": 1723005
+    },
+    {
+      "image_id": 1723,
+      "question": "果实的疾病是什么?",
+      "question_id": 1723006
+    },
+    {
+      "image_id": 1723,
+      "question": "图像中的果实的疾病是枣炭疽病吗?",
+      "question_id": 1723007
+    },
+    {
+      "image_id": 1729,
+      "question": "图像中有几个果实?",
+      "question_id": 1729000
+    },
+    {
+      "image_id": 1729,
+      "question": "果实的主要颜色是什么?",
+      "question_id": 1729001
+    },
+    {
+      "image_id": 1729,
+      "question": "图像中有几个病斑?",
+      "question_id": 1729002
+    },
+    {
+      "image_id": 1729,
+      "question": "病斑的颜色是什么?",
+      "question_id": 1729003
+    },
+    {
+      "image_id": 1729,
+      "question": "病斑的表面是什么形态?",
+      "question_id": 1729004
+    },
+    {
+      "image_id": 1729,
+      "question": "病斑表面的形状是什么?",
+      "question_id": 1729005
+    },
+    {
+      "image_id": 1729,
+      "question": "果实的疾病是什么?",
+      "question_id": 1729006
+    },
+    {
+      "image_id": 1729,
+      "question": "图像中的病斑的疾病是枣炭疽病吗?",
+      "question_id": 1729007
+    },
+    {
+      "image_id": 1737,
+      "question": "图像中有几个果实?",
+      "question_id": 1737000
+    },
+    {
+      "image_id": 1737,
+      "question": "图像中有几个病斑?",
+      "question_id": 1737001
+    },
+    {
+      "image_id": 1737,
+      "question": "病斑的颜色是什么?",
+      "question_id": 1737002
+    },
+    {
+      "image_id": 1737,
+      "question": "病斑的表面是否光滑平整?",
+      "question_id": 1737003
+    },
+    {
+      "image_id": 1737,
+      "question": "病斑的表面是什么形态?",
+      "question_id": 1737004
+    },
+    {
+      "image_id": 1737,
+      "question": "病斑表面的形状是什么?",
+      "question_id": 1737005
+    },
+    {
+      "image_id": 1737,
+      "question": "果实的疾病是什么?",
+      "question_id": 1737006
+    },
+    {
+      "image_id": 1737,
+      "question": "图像中的病斑的疾病是枣炭疽病吗?",
+      "question_id": 1737007
+    },
+    {
+      "image_id": 1739,
+      "question": "图像中有几个果实?",
+      "question_id": 1739000
+    },
+    {
+      "image_id": 1739,
+      "question": "图像中有几个病斑?",
+      "question_id": 1739001
+    },
+    {
+      "image_id": 1739,
+      "question": "病斑是什么颜色的?",
+      "question_id": 1739002
+    },
+    {
+      "image_id": 1739,
+      "question": "病斑的边缘是否规则?",
+      "question_id": 1739003
+    },
+    {
+      "image_id": 1739,
+      "question": "病斑的表面是什么形态?",
+      "question_id": 1739004
+    },
+    {
+      "image_id": 1739,
+      "question": "病斑的表面平整吗?",
+      "question_id": 1739005
+    },
+    {
+      "image_id": 1739,
+      "question": "图像中的病斑的疾病是枣炭疽病吗?",
+      "question_id": 1739006
+    },
+    {
+      "image_id": 1739,
+      "question": "果实的疾病是什么?",
+      "question_id": 1739007
+    },
+    {
+      "image_id": 1755,
+      "question": "图像中有几个果实?",
+      "question_id": 1755000
+    },
+    {
+      "image_id": 1755,
+      "question": "图像中有几个病斑?",
+      "question_id": 1755001
+    },
+    {
+      "image_id": 1755,
+      "question": "病斑的颜色是什么?",
+      "question_id": 1755002
+    },
+    {
+      "image_id": 1755,
+      "question": "病斑的表面是什么形态?",
+      "question_id": 1755003
+    },
+    {
+      "image_id": 1755,
+      "question": "病斑的表面是什么形状?",
+      "question_id": 1755004
+    },
+    {
+      "image_id": 1755,
+      "question": "病斑的表面平整吗?",
+      "question_id": 1755005
+    },
+    {
+      "image_id": 1755,
+      "question": "果实的疾病是什么?",
+      "question_id": 1755006
+    },
+    {
+      "image_id": 1755,
+      "question": "图像中的病斑的疾病是枣炭疽病吗?",
+      "question_id": 1755007
+    },
+    {
+      "image_id": 2122,
+      "question": "图像中有几个果实?",
+      "question_id": 2122000
+    },
+    {
+      "image_id": 2122,
+      "question": "图像中有几个裂口?",
+      "question_id": 2122001
+    },
+    {
+      "image_id": 2122,
+      "question": "果实的什么部位开裂了?",
+      "question_id": 2122002
+    },
+    {
+      "image_id": 2122,
+      "question": "果实裂口的边缘是否光滑?",
+      "question_id": 2122003
+    },
+    {
+      "image_id": 2122,
+      "question": "果实裂口里的颜色是什么?",
+      "question_id": 2122004
+    },
+    {
+      "image_id": 2122,
+      "question": "图像中果实的疾病是柑橘裂果病吗?",
+      "question_id": 2122005
+    },
+    {
+      "image_id": 2122,
+      "question": "图像中的果实是什么病害?",
+      "question_id": 2122006
+    },
+    {
+      "image_id": 2122,
+      "question": "裂口里是什么状态?",
+      "question_id": 2122007
+    },
+    {
+      "image_id": 2123,
+      "question": "图像中有几个果实?",
+      "question_id": 2123000
+    },
+    {
+      "image_id": 2123,
+      "question": "图像中有几个裂口?",
+      "question_id": 2123001
+    },
+    {
+      "image_id": 2123,
+      "question": "果实裂口里的颜色是什么?",
+      "question_id": 2123002
+    },
+    {
+      "image_id": 2123,
+      "question": "图像中果实的疾病是柑橘裂果病吗?",
+      "question_id": 2123003
+    },
+    {
+      "image_id": 2123,
+      "question": "图像中的果实是什么病害?",
+      "question_id": 2123004
+    },
+    {
+      "image_id": 2123,
+      "question": "裂口里是什么状态?",
+      "question_id": 2123005
+    },
+    {
+      "image_id": 2123,
+      "question": "果实裂口的边缘是什么颜色?",
+      "question_id": 2123006
+    },
+    {
+      "image_id": 2123,
+      "question": "果实裂口的边缘是什么状态?",
+      "question_id": 2123007
+    },
+    {
+      "image_id": 2125,
+      "question": "图像中有几个果实?",
+      "question_id": 2125000
+    },
+    {
+      "image_id": 2125,
+      "question": "图中果实的裂口有多少?",
+      "question_id": 2125001
+    },
+    {
+      "image_id": 2125,
+      "question": "裂口里是什么状态?",
+      "question_id": 2125002
+    },
+    {
+      "image_id": 2125,
+      "question": "果实裂口里的颜色是什么?",
+      "question_id": 2125003
+    },
+    {
+      "image_id": 2125,
+      "question": "果实裂口的边缘是否光滑?",
+      "question_id": 2125004
+    },
+    {
+      "image_id": 2125,
+      "question": "果实裂口的边缘是什么颜色?",
+      "question_id": 2125005
+    },
+    {
+      "image_id": 2125,
+      "question": "图像中的果实是什么病害?",
+      "question_id": 2125006
+    },
+    {
+      "image_id": 2125,
+      "question": "图像中果实的疾病是柑橘裂果病吗?",
+      "question_id": 2125007
+    },
+    {
+      "image_id": 2129,
+      "question": "图像中有几个果实?",
+      "question_id": 2129000
+    },
+    {
+      "image_id": 2129,
+      "question": "果实裂口的边缘是什么颜色?",
+      "question_id": 2129001
+    },
+    {
+      "image_id": 2129,
+      "question": "果实裂口里的颜色是什么?",
+      "question_id": 2129002
+    },
+    {
+      "image_id": 2129,
+      "question": "裂口的边缘是什么形态?",
+      "question_id": 2129003
+    },
+    {
+      "image_id": 2129,
+      "question": "裂口里是什么状态?",
+      "question_id": 2129004
+    },
+    {
+      "image_id": 2129,
+      "question": "图中果实的裂口有多少?",
+      "question_id": 2129005
+    },
+    {
+      "image_id": 2129,
+      "question": "图像中的果实是什么病害?",
+      "question_id": 2129006
+    },
+    {
+      "image_id": 2129,
+      "question": "图像中果实的疾病是柑橘裂果病吗?",
+      "question_id": 2129007
+    },
+    {
+      "image_id": 2136,
+      "question": "图像中有几个果实?",
+      "question_id": 2136000
+    },
+    {
+      "image_id": 2136,
+      "question": "果实裂口里的颜色是什么?",
+      "question_id": 2136001
+    },
+    {
+      "image_id": 2136,
+      "question": "图中果实的裂口有多少?",
+      "question_id": 2136002
+    },
+    {
+      "image_id": 2136,
+      "question": "果实裂口的边缘是什么颜色?",
+      "question_id": 2136003
+    },
+    {
+      "image_id": 2136,
+      "question": "裂口里是什么状态?",
+      "question_id": 2136004
+    },
+    {
+      "image_id": 2136,
+      "question": "果实裂口的边缘是否光滑?",
+      "question_id": 2136005
+    },
+    {
+      "image_id": 2136,
+      "question": "图像中的果实是什么病害?",
+      "question_id": 2136006
+    },
+    {
+      "image_id": 2136,
+      "question": "图像中果实的疾病是柑橘裂果病吗?",
+      "question_id": 2136007
+    },
+    {
+      "image_id": 2143,
+      "question": "图像中的水果是什么?",
+      "question_id": 2143000
+    },
+    {
+      "image_id": 2143,
+      "question": "图像中的水果是什么颜色?",
+      "question_id": 2143001
+    },
+    {
+      "image_id": 2143,
+      "question": "图像中的水果裂口周围的颜色是什么?",
+      "question_id": 2143002
+    },
+    {
+      "image_id": 2143,
+      "question": "图像中的水果裂口边缘的颜色是什么?",
+      "question_id": 2143003
+    },
+    {
+      "image_id": 2143,
+      "question": "图像中的水果裂口内部的颜色是什么?",
+      "question_id": 2143004
+    },
+    {
+      "image_id": 2143,
+      "question": "果实上有几个裂口?",
+      "question_id": 2143005
+    },
+    {
+      "image_id": 2143,
+      "question": "图像中的果实是什么病害?",
+      "question_id": 2143006
+    },
+    {
+      "image_id": 2143,
+      "question": "裂口里是什么状态?",
+      "question_id": 2143007
+    },
+    {
+      "image_id": 2143,
+      "question": "图像中果实的疾病是柑橘裂果病吗?",
+      "question_id": 2143008
+    },
+    {
+      "image_id": 2169,
+      "question": "图像中的水果是什么?",
+      "question_id": 2169000
+    },
+    {
+      "image_id": 2169,
+      "question": "果实上有几个裂口?",
+      "question_id": 2169001
+    },
+    {
+      "image_id": 2169,
+      "question": "图像中的水果裂口周围的颜色是什么?",
+      "question_id": 2169002
+    },
+    {
+      "image_id": 2169,
+      "question": "图像中的水果裂口边缘的颜色是什么?",
+      "question_id": 2169003
+    },
+    {
+      "image_id": 2169,
+      "question": "图像中的水果裂口内部的颜色是什么?",
+      "question_id": 2169004
+    },
+    {
+      "image_id": 2169,
+      "question": "图像中的果实是什么病害?",
+      "question_id": 2169005
+    },
+    {
+      "image_id": 2169,
+      "question": "裂口里是什么状态?",
+      "question_id": 2169006
+    },
+    {
+      "image_id": 2169,
+      "question": "果实裂口的边缘是否光滑?",
+      "question_id": 2169007
+    },
+    {
+      "image_id": 2175,
+      "question": "图像中的水果是什么?",
+      "question_id": 2175000
+    },
+    {
+      "image_id": 2175,
+      "question": "病斑的位置是什么部分?",
+      "question_id": 2175001
+    },
+    {
+      "image_id": 2175,
+      "question": "病斑外围是什么颜色的?",
+      "question_id": 2175002
+    },
+    {
+      "image_id": 2175,
+      "question": "图片中果实上病斑边缘是什么状态?",
+      "question_id": 2175003
+    },
+    {
+      "image_id": 2175,
+      "question": "病斑的边缘是否规则?",
+      "question_id": 2175004
+    },
+    {
+      "image_id": 2175,
+      "question": "果实上病斑是什么颜色的?",
+      "question_id": 2175005
+    },
+    {
+      "image_id": 2175,
+      "question": "图像中的水果患的病是什么?",
+      "question_id": 2175006
+    },
+    {
+      "image_id": 2175,
+      "question": "病斑的颜色比果实的颜色淡吗?",
+      "question_id": 2175007
+    },
+    {
+      "image_id": 2184,
+      "question": "图像中的水果是什么?",
+      "question_id": 2184000
+    },
+    {
+      "image_id": 2184,
+      "question": "图片中果实上病斑边缘是什么状态?",
+      "question_id": 2184001
+    },
+    {
+      "image_id": 2184,
+      "question": "病斑外围是什么颜色的?",
+      "question_id": 2184002
+    },
+    {
+      "image_id": 2184,
+      "question": "果实的病斑中央是什么颜色的?",
+      "question_id": 2184003
+    },
+    {
+      "image_id": 2184,
+      "question": "图像中的水果的病斑主要是什么颜色?",
+      "question_id": 2184004
+    },
+    {
+      "image_id": 2184,
+      "question": "病斑的边缘是否规则?",
+      "question_id": 2184005
+    },
+    {
+      "image_id": 2184,
+      "question": "图像中的水果患的病是什么?",
+      "question_id": 2184006
+    },
+    {
+      "image_id": 2184,
+      "question": "果实是什么颜色的?",
+      "question_id": 2184007
+    },
+    {
+      "image_id": 2187,
+      "question": "图像中的水果是什么?",
+      "question_id": 2187000
+    },
+    {
+      "image_id": 2187,
+      "question": "果实是什么颜色的?",
+      "question_id": 2187001
+    },
+    {
+      "image_id": 2187,
+      "question": "果实上病斑主要是什么颜色的?",
+      "question_id": 2187002
+    },
+    {
+      "image_id": 2187,
+      "question": "病斑的周围是使果实褪色吗?",
+      "question_id": 2187003
+    },
+    {
+      "image_id": 2187,
+      "question": "果实的病斑中央是什么状态?",
+      "question_id": 2187004
+    },
+    {
+      "image_id": 2187,
+      "question": "病斑中央是什么颜色的?",
+      "question_id": 2187005
+    },
+    {
+      "image_id": 2187,
+      "question": "图片中果实上病斑边缘是什么状态?",
+      "question_id": 2187006
+    },
+    {
+      "image_id": 2187,
+      "question": "图像中的水果上的疾病是什么?",
+      "question_id": 2187007
+    },
+    {
+      "image_id": 2872,
+      "question": "图像中的果实是什么?",
+      "question_id": 2872000
+    },
+    {
+      "image_id": 2872,
+      "question": "病斑颜色的深浅变化是否形成环状?",
+      "question_id": 2872001
+    },
+    {
+      "image_id": 2872,
+      "question": "病斑的颜色从内到外是怎么变化的?",
+      "question_id": 2872002
+    },
+    {
+      "image_id": 2872,
+      "question": "病斑表面的纹路是否规律?",
+      "question_id": 2872003
+    },
+    {
+      "image_id": 2872,
+      "question": "图像中果实的颜色是什么?",
+      "question_id": 2872004
+    },
+    {
+      "image_id": 2872,
+      "question": "病斑表面是否存在明显的同心轮纹?",
+      "question_id": 2872005
+    },
+    {
+      "image_id": 2872,
+      "question": "果实上有几个病斑?",
+      "question_id": 2872006
+    },
+    {
+      "image_id": 2872,
+      "question": "病斑的大小是什么?",
+      "question_id": 2872007
+    },
+    {
+      "image_id": 2877,
+      "question": "图像中的果实是什么?",
+      "question_id": 2877000
+    },
+    {
+      "image_id": 2877,
+      "question": "病斑颜色的深浅变化是否形成环状?",
+      "question_id": 2877001
+    },
+    {
+      "image_id": 2877,
+      "question": "病斑表面的纹路是否规律?",
+      "question_id": 2877002
+    },
+    {
+      "image_id": 2877,
+      "question": "病斑下小粒点凸起的分布是否规律?",
+      "question_id": 2877003
+    },
+    {
+      "image_id": 2892,
+      "question": "图像中的果实是什么?",
+      "question_id": 2892000
+    },
+    {
+      "image_id": 2892,
+      "question": "图像中有多少个果实?",
+      "question_id": 2892001
+    },
+    {
+      "image_id": 2892,
+      "question": "图像中有多少个病斑?",
+      "question_id": 2892002
+    },
+    {
+      "image_id": 2892,
+      "question": "病斑的颜色是什么?",
+      "question_id": 2892003
+    },
+    {
+      "image_id": 2892,
+      "question": "病斑的边缘是否具有明显的界限?",
+      "question_id": 2892004
+    },
+    {
+      "image_id": 2892,
+      "question": "病斑的形状是什么样的?",
+      "question_id": 2892005
+    },
+    {
+      "image_id": 2892,
+      "question": "病斑的大小是什么?",
+      "question_id": 2892006
+    },
+    {
+      "image_id": 2892,
+      "question": "图像中的果实上的病斑是什么病害?",
+      "question_id": 2892007
+    },
+    {
+      "image_id": 2896,
+      "question": "图像中的果实是什么?",
+      "question_id": 2896000
+    },
+    {
+      "image_id": 2896,
+      "question": "病斑表皮下的小粒点是否隆起?",
+      "question_id": 2896001
+    },
+    {
+      "image_id": 2896,
+      "question": "病斑表皮下有否有很多小粒点?",
+      "question_id": 2896002
+    },
+    {
+      "image_id": 2896,
+      "question": "病斑下小粒点凸起的分布是否规律?",
+      "question_id": 2896003
+    },
+    {
+      "image_id": 2896,
+      "question": "病斑是否有腐软下陷的现象?",
+      "question_id": 2896004
+    },
+    {
+      "image_id": 2896,
+      "question": "病斑的边缘是否具有明显的界限?",
+      "question_id": 2896005
+    },
+    {
+      "image_id": 2896,
+      "question": "病斑的大小是什么?",
+      "question_id": 2896006
+    },
+    {
+      "image_id": 2896,
+      "question": "病斑的形状是什么样的?",
+      "question_id": 2896007
+    },
+    {
+      "image_id": 2896,
+      "question": "图像中的果实上的病斑是什么病害?",
+      "question_id": 2896008
+    },
+    {
+      "image_id": 2923,
+      "question": "图像中患病果实有几个?",
+      "question_id": 2923000
+    },
+    {
+      "image_id": 2923,
+      "question": "图像中患病果实是什么?",
+      "question_id": 2923001
+    },
+    {
+      "image_id": 2923,
+      "question": "果实上的病斑是什么颜色的?",
+      "question_id": 2923002
+    },
+    {
+      "image_id": 2923,
+      "question": "果实上的病斑是什么形状的?",
+      "question_id": 2923003
+    },
+    {
+      "image_id": 2923,
+      "question": "果实是什么颜色的?",
+      "question_id": 2923004
+    },
+    {
+      "image_id": 2923,
+      "question": "病果的病斑上是否存在绒球状霉团?",
+      "question_id": 2923005
+    },
+    {
+      "image_id": 2923,
+      "question": "图像中的果实上的病斑是什么病害?",
+      "question_id": 2923006
+    },
+    {
+      "image_id": 2923,
+      "question": "图像中的果实上的病斑是梨褐腐病吗?",
+      "question_id": 2923007
+    },
+    {
+      "image_id": 2939,
+      "question": "图像中患病果实有几个?",
+      "question_id": 2939000
+    },
+    {
+      "image_id": 2939,
+      "question": "图像中患病果实是什么?",
+      "question_id": 2939001
+    },
+    {
+      "image_id": 2939,
+      "question": "果实上的病斑是什么颜色的?",
+      "question_id": 2939002
+    },
+    {
+      "image_id": 2939,
+      "question": "病果是否失水干缩?",
+      "question_id": 2939003
+    },
+    {
+      "image_id": 2939,
+      "question": "果实上的病斑是什么状态的?",
+      "question_id": 2939004
+    },
+    {
+      "image_id": 2939,
+      "question": "图像中的果实上的病斑是什么病害?",
+      "question_id": 2939005
+    },
+    {
+      "image_id": 2939,
+      "question": "图像中的果实上的病斑是梨褐腐病吗?",
+      "question_id": 2939006
+    },
+    {
+      "image_id": 2939,
+      "question": "病果的病斑上是否存在绒球状霉团?",
+      "question_id": 2939007
+    },
+    {
+      "image_id": 2936,
+      "question": "图像中患病果实有几个?",
+      "question_id": 2936000
+    },
+    {
+      "image_id": 2936,
+      "question": "图像中果实是什么?",
+      "question_id": 2936001
+    },
+    {
+      "image_id": 2936,
+      "question": "图像中患病果实病斑是什么颜色?",
+      "question_id": 2936002
+    },
+    {
+      "image_id": 2936,
+      "question": "病果的病斑上是否存在绒球状霉团?",
+      "question_id": 2936003
+    },
+    {
+      "image_id": 2936,
+      "question": "病果的病斑上霉团的颜色是什么?",
+      "question_id": 2936004
+    },
+    {
+      "image_id": 2936,
+      "question": "病果的病斑上霉团的形状是什么?",
+      "question_id": 2936005
+    },
+    {
+      "image_id": 2936,
+      "question": "病果是否失水干缩?",
+      "question_id": 2936006
+    },
+    {
+      "image_id": 2936,
+      "question": "图像中的果实上的病斑是什么病害?",
+      "question_id": 2936007
+    },
+    {
+      "image_id": 2937,
+      "question": "图像中患病果实有几个?",
+      "question_id": 2937000
+    },
+    {
+      "image_id": 2937,
+      "question": "图像中果实是什么?",
+      "question_id": 2937001
+    },
+    {
+      "image_id": 2937,
+      "question": "图像中患病果实病斑是什么颜色?",
+      "question_id": 2937002
+    },
+    {
+      "image_id": 2937,
+      "question": "病果的病斑上是否存在绒球状霉团?",
+      "question_id": 2937003
+    },
+    {
+      "image_id": 2937,
+      "question": "病果的病斑上霉团的颜色是什么?",
+      "question_id": 2937004
+    },
+    {
+      "image_id": 2937,
+      "question": "病果的病斑上霉团的形状是什么?",
+      "question_id": 2937005
+    },
+    {
+      "image_id": 2937,
+      "question": "病果是否失水干缩?",
+      "question_id": 2937006
+    },
+    {
+      "image_id": 2937,
+      "question": "图像中的果实上的病斑是什么病害?",
+      "question_id": 2937007
+    },
+    {
+      "image_id": 2941,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 2941000
+    },
+    {
+      "image_id": 2941,
+      "question": "图中叶片上有几个病斑?",
+      "question_id": 2941001
+    },
+    {
+      "image_id": 2941,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 2941002
+    },
+    {
+      "image_id": 2941,
+      "question": "病斑中心的颜色是什么?",
+      "question_id": 2941003
+    },
+    {
+      "image_id": 2941,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 2941004
+    },
+    {
+      "image_id": 2941,
+      "question": "叶片的颜色是什么?",
+      "question_id": 2941005
+    },
+    {
+      "image_id": 2941,
+      "question": "病斑上是否长毛?",
+      "question_id": 2941006
+    },
+    {
+      "image_id": 2941,
+      "question": "叶片上病斑的形态是什么?",
+      "question_id": 2941007
+    },
+    {
+      "image_id": 2941,
+      "question": "图像中的叶片上的病斑是什么病害?",
+      "question_id": 2941008
+    },
+    {
+      "image_id": 2952,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 2952000
+    },
+    {
+      "image_id": 2952,
+      "question": "图中叶片上有几个病斑?",
+      "question_id": 2952001
+    },
+    {
+      "image_id": 2952,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 2952002
+    },
+    {
+      "image_id": 2952,
+      "question": "病斑上是否长毛?",
+      "question_id": 2952003
+    },
+    {
+      "image_id": 2952,
+      "question": "病斑的形状是什么?",
+      "question_id": 2952004
+    },
+    {
+      "image_id": 2952,
+      "question": "图像中的叶片上的病斑是什么病害?",
+      "question_id": 2952005
+    },
+    {
+      "image_id": 2952,
+      "question": "病斑中心的颜色是什么?",
+      "question_id": 2952006
+    },
+    {
+      "image_id": 2952,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 2952007
+    },
+    {
+      "image_id": 2954,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 2954000
+    },
+    {
+      "image_id": 2954,
+      "question": "叶片的颜色是什么?",
+      "question_id": 2954001
+    },
+    {
+      "image_id": 2954,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 2954002
+    },
+    {
+      "image_id": 2954,
+      "question": "病斑中心的颜色是什么?",
+      "question_id": 2954003
+    },
+    {
+      "image_id": 2954,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 2954004
+    },
+    {
+      "image_id": 2954,
+      "question": "病斑上是否长毛?",
+      "question_id": 2954005
+    },
+    {
+      "image_id": 2954,
+      "question": "叶片上病斑的形态是什么?",
+      "question_id": 2954006
+    },
+    {
+      "image_id": 2954,
+      "question": "图像中的叶片上的病斑是什么病害?",
+      "question_id": 2954007
+    },
+    {
+      "image_id": 2954,
+      "question": "图片中的叶片上有多少病斑?",
+      "question_id": 2954008
+    },
+    {
+      "image_id": 2971,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 2971000
+    },
+    {
+      "image_id": 2971,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 2971001
+    },
+    {
+      "image_id": 2971,
+      "question": "病斑中心的颜色是什么?",
+      "question_id": 2971002
+    },
+    {
+      "image_id": 2971,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 2971003
+    },
+    {
+      "image_id": 2971,
+      "question": "病斑上是否长毛?",
+      "question_id": 2971004
+    },
+    {
+      "image_id": 2971,
+      "question": "叶片上病斑的形态是什么?",
+      "question_id": 2971005
+    },
+    {
+      "image_id": 2971,
+      "question": "图像中的叶片上的病斑是什么病害?",
+      "question_id": 2971006
+    },
+    {
+      "image_id": 2971,
+      "question": "图片中的叶片上有多少病斑?",
+      "question_id": 2971007
+    },
+    {
+      "image_id": 2981,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 2981000
+    },
+    {
+      "image_id": 2981,
+      "question": "叶片的颜色是什么?",
+      "question_id": 2981001
+    },
+    {
+      "image_id": 2981,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 2981002
+    },
+    {
+      "image_id": 2981,
+      "question": "图中叶片上有几个病斑?",
+      "question_id": 2981003
+    },
+    {
+      "image_id": 2981,
+      "question": "病斑上是否长毛?",
+      "question_id": 2981004
+    },
+    {
+      "image_id": 2981,
+      "question": "病斑的形状是什么?",
+      "question_id": 2981005
+    },
+    {
+      "image_id": 2981,
+      "question": "叶片上病斑的形态是什么?",
+      "question_id": 2981006
+    },
+    {
+      "image_id": 2981,
+      "question": "图像中的叶片上的病斑是什么病害?",
+      "question_id": 2981007
+    },
+    {
+      "image_id": 3032,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 3032000
+    },
+    {
+      "image_id": 3032,
+      "question": "图中叶片上有几个病斑?",
+      "question_id": 3032001
+    },
+    {
+      "image_id": 3032,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 3032002
+    },
+    {
+      "image_id": 3032,
+      "question": "病斑中心的颜色是什么?",
+      "question_id": 3032003
+    },
+    {
+      "image_id": 3032,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 3032004
+    },
+    {
+      "image_id": 3032,
+      "question": "病斑上是否长毛?",
+      "question_id": 3032005
+    },
+    {
+      "image_id": 3032,
+      "question": "图像中的叶片上的病斑是什么病害?",
+      "question_id": 3032006
+    },
+    {
+      "image_id": 3032,
+      "question": "叶片上病斑的形态是什么?",
+      "question_id": 3032007
+    },
+    {
+      "image_id": 3033,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 3033000
+    },
+    {
+      "image_id": 3033,
+      "question": "图中叶片上有几个病斑?",
+      "question_id": 3033001
+    },
+    {
+      "image_id": 3033,
+      "question": "病斑上是否长毛?",
+      "question_id": 3033002
+    },
+    {
+      "image_id": 3033,
+      "question": "病斑在叶片上形态是什么?",
+      "question_id": 3033003
+    },
+    {
+      "image_id": 3033,
+      "question": "病斑上的细管状物是否细又长?",
+      "question_id": 3033005
+    },
+    {
+      "image_id": 3033,
+      "question": "图像中的叶片上的病斑是什么病害?",
+      "question_id": 3033007
+    },
+    {
+      "image_id": 3033,
+      "question": "病斑中心的颜色是什么?",
+      "question_id": 3033008
+    },
+    {
+      "image_id": 3049,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 3049000
+    },
+    {
+      "image_id": 3049,
+      "question": "图中叶片上有几个病斑?",
+      "question_id": 3049001
+    },
+    {
+      "image_id": 3049,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 3049002
+    },
+    {
+      "image_id": 3049,
+      "question": "病斑中心的颜色是什么?",
+      "question_id": 3049003
+    },
+    {
+      "image_id": 3049,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 3049004
+    },
+    {
+      "image_id": 3049,
+      "question": "病斑上是否长毛?",
+      "question_id": 3049005
+    },
+    {
+      "image_id": 3049,
+      "question": "图像中的叶片上的病斑是什么病害?",
+      "question_id": 3049006
+    },
+    {
+      "image_id": 3049,
+      "question": "叶片上病斑的形态是什么?",
+      "question_id": 3049007
+    },
+    {
+      "image_id": 3079,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 3079000
+    },
+    {
+      "image_id": 3079,
+      "question": "图中叶片上有几个病斑?",
+      "question_id": 3079001
+    },
+    {
+      "image_id": 3079,
+      "question": "病斑中心的颜色是什么?",
+      "question_id": 3079002
+    },
+    {
+      "image_id": 3079,
+      "question": "病斑上是否长毛?",
+      "question_id": 3079003
+    },
+    {
+      "image_id": 3079,
+      "question": "图像中的叶片上的病斑是什么病害?",
+      "question_id": 3079007
+    },
+    {
+      "image_id": 3088,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 3088000
+    },
+    {
+      "image_id": 3088,
+      "question": "图中叶片上有几个病斑?",
+      "question_id": 3088001
+    },
+    {
+      "image_id": 3088,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 3088002
+    },
+    {
+      "image_id": 3088,
+      "question": "病斑中心的颜色是什么?",
+      "question_id": 3088003
+    },
+    {
+      "image_id": 3088,
+      "question": "叶片的颜色是什么?",
+      "question_id": 3088004
+    },
+    {
+      "image_id": 3088,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 3088005
+    },
+    {
+      "image_id": 3088,
+      "question": "病斑上是否长毛?",
+      "question_id": 3088006
+    },
+    {
+      "image_id": 3088,
+      "question": "病斑的形状是什么?",
+      "question_id": 3088007
+    },
+    {
+      "image_id": 3088,
+      "question": "叶片上病斑的形态是什么?",
+      "question_id": 3088008
+    },
+    
+    {
+      "image_id": 3114,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 3114000
+    },
+    {
+      "image_id": 3114,
+      "question": "图中叶片上有几个病斑?",
+      "question_id": 3114001
+    },
+    {
+      "image_id": 3114,
+      "question": "图中有几个叶片?",
+      "question_id": 3114002
+    },
+    {
+      "image_id": 3114,
+      "question": "叶片的颜色是什么?",
+      "question_id": 3114003
+    },
+    {
+      "image_id": 3114,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 3114004
+    },
+    {
+      "image_id": 3114,
+      "question": "病斑中心的颜色是什么?",
+      "question_id": 3114005
+    },
+    {
+      "image_id": 3114,
+      "question": "图片中的叶子得了什么病害?",
+      "question_id": 3114006
+    },
+    {
+      "image_id": 3114,
+      "question": "病斑上是否长毛?",
+      "question_id": 3114007
+    },
+    {
+      "image_id": 3134,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 3134000
+    },
+    {
+      "image_id": 3134,
+      "question": "图中叶片上有几个病斑?",
+      "question_id": 3134001
+    },
+    {
+      "image_id": 3134,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 3134002
+    },
+    {
+      "image_id": 3134,
+      "question": "病斑中心的颜色是什么?",
+      "question_id": 3134003
+    },
+    {
+      "image_id": 3134,
+      "question": "叶片的颜色是什么?",
+      "question_id": 3134004
+    },
+    {
+      "image_id": 3134,
+      "question": "病斑上是否长毛?",
+      "question_id": 3134005
+    },
+    {
+      "image_id": 3134,
+      "question": "叶片上病斑的形态是什么?",
+      "question_id": 3134006
+    },
+    {
+      "image_id": 3134,
+      "question": "图片中的叶子得了什么病害?",
+      "question_id": 3134007
+    },
+    
+    {
+      "image_id": 3193,
+      "question": "图片中的叶子是什么植物?",
+      "question_id": 3193000
+    },
+    {
+      "image_id": 3193,
+      "question": "病斑的颜色是什么?",
+      "question_id": 3193001
+    },
+    {
+      "image_id": 3193,
+      "question": "病斑上是否长毛?",
+      "question_id": 3193002
+    },
+    {
+      "image_id": 3193,
+      "question": "病斑上的细管状物是否细又长?",
+      "question_id": 3193003
+    },
+    {
+      "image_id": 3193,
+      "question": "病斑在叶片上形态是什么?",
+      "question_id": 3193004
+    },
+    {
+      "image_id": 3193,
+      "question": "病斑上长出的物质的形态是什么?",
+      "question_id": 3193005
+    },
+    {
+      "image_id": 3193,
+      "question": "病斑上的细管状物是什么状态?",
+      "question_id": 3193006
+    },
+    {
+      "image_id": 3193,
+      "question": "图中侵扰植物的病害是什么?",
+      "question_id": 3193007
+    },
+    {
+      "image_id": 3347,
+      "question": "图片中果实上病斑的颜色是什么?",
+      "question_id": 3347003
+    },
+    {
+      "image_id": 3347,
+      "question": "图片中果实的颜色是什么?",
+      "question_id": 3347004
+    },
+    {
+      "image_id": 3347,
+      "question": "病斑的大小是什么?",
+      "question_id": 3347005
+    },
+    {
+      "image_id": 3347,
+      "question": "图中果实的病斑的形态是什么?",
+      "question_id": 3347006
+    },
+    {
+      "image_id": 3347,
+      "question": "图中侵扰果实的病害是什么?",
+      "question_id": 3347007
+    },
+    {
+      "image_id": 3359,
+      "question": "果实上的病斑中央是什么颜色的?",
+      "question_id": 3359003
+    },
+    {
+      "image_id": 3359,
+      "question": "图中果实的病斑上是否存在黑色小点吗?",
+      "question_id": 3359004
+    },
+    {
+      "image_id": 3359,
+      "question": "图中侵扰果实的病害是什么?",
+      "question_id": 3359005
+    },
+    {
+      "image_id": 3359,
+      "question": "病斑的大小是什么?",
+      "question_id": 3359006
+    },
+    {
+      "image_id": 3359,
+      "question": "图中果实的病斑的形态是什么?",
+      "question_id": 3359007
+    },
+    {
+      "image_id": 4934,
+      "question": "图片中的果实是什么?",
+      "question_id": 4934000
+    },
+    {
+      "image_id": 4934,
+      "question": "图片中果实上的病斑中央是什么颜色?",
+      "question_id": 4934001
+    },
+    {
+      "image_id": 4934,
+      "question": "图中病斑的形态是什么?",
+      "question_id": 4934002
+    },
+    {
+      "image_id": 4934,
+      "question": "果实是什么颜色?",
+      "question_id": 4934003
+    },
+    {
+      "image_id": 4934,
+      "question": "病斑的数量是多少?",
+      "question_id": 4934004
+    },
+    {
+      "image_id": 4934,
+      "question": "图中侵害植物的疾病是什么?",
+      "question_id": 4934005
+    },
+    {
+      "image_id": 4934,
+      "question": "病斑的状态是什么?",
+      "question_id": 4934006
+    },
+    {
+      "image_id": 4934,
+      "question": "病斑中央的状态是什么?",
+      "question_id": 4934007
+    },
+    {
+      "image_id": 4934,
+      "question": "图片中果实上的病斑是什么形状?",
+      "question_id": 4934008
+    },
+    {
+      "image_id": 4940,
+      "question": "图片中的果实是什么?",
+      "question_id": 4940000
+    },
+    {
+      "image_id": 4940,
+      "question": "图片中果实上的病斑中央是什么颜色?",
+      "question_id": 4940001
+    },
+    {
+      "image_id": 4940,
+      "question": "图中病斑的形态是什么?",
+      "question_id": 4940002
+    },
+    {
+      "image_id": 4940,
+      "question": "病斑的数量是多少?",
+      "question_id": 4940003
+    },
+    {
+      "image_id": 4940,
+      "question": "图中侵害植物的疾病是什么?",
+      "question_id": 4940004
+    },
+    {
+      "image_id": 4940,
+      "question": "病斑的状态是什么?",
+      "question_id": 4940005
+    },
+    {
+      "image_id": 4940,
+      "question": "病斑中央的状态是什么?",
+      "question_id": 4940006
+    },
+    {
+      "image_id": 4940,
+      "question": "图片中果实上的病斑是什么形状?",
+      "question_id": 4940007
+    },
+    {
+      "image_id": 4976,
+      "question": "图片中果实上的病斑中央是什么颜色?",
+      "question_id": 4976001
+    },
+    {
+      "image_id": 4976,
+      "question": "病斑的数量是多少?",
+      "question_id": 4976002
+    },
+    {
+      "image_id": 4976,
+      "question": "病斑上是否具有突起的小黑粒?",
+      "question_id": 4976003
+    },
+    {
+      "image_id": 4976,
+      "question": "图中病斑的状态是什么?",
+      "question_id": 4976004
+    },
+    {
+      "image_id": 4976,
+      "question": "图中病斑的外围是什么颜色?",
+      "question_id": 4976005
+    },
+    {
+      "image_id": 4976,
+      "question": "病斑中央的状态是什么?",
+      "question_id": 4976006
+    },
+    {
+      "image_id": 4976,
+      "question": "图中侵害植物的疾病是什么?",
+      "question_id": 4976007
+    },
+    {
+      "image_id": 4987,
+      "question": "图片中果实上的病斑中央是什么颜色?",
+      "question_id": 4987001
+    },
+    {
+      "image_id": 4987,
+      "question": "图中侵害植物的疾病是什么?",
+      "question_id": 4987002
+    },
+    {
+      "image_id": 4987,
+      "question": "图片中果实上的病斑是什么形状?",
+      "question_id": 4987003
+    },
+    {
+      "image_id": 4987,
+      "question": "果实是什么颜色?",
+      "question_id": 4987004
+    },
+    {
+      "image_id": 4987,
+      "question": "图中病斑的形态是什么?",
+      "question_id": 4987005
+    },
+    {
+      "image_id": 4987,
+      "question": "病斑上是否具有突起的小黑粒?",
+      "question_id": 4987006
+    },
+    {
+      "image_id": 4987,
+      "question": "病斑的数量是多少?",
+      "question_id": 4987007
+    },
+    {
+      "image_id": 4995,
+      "question": "图片中果实上的病斑中央是什么颜色?",
+      "question_id": 4995001
+    },
+    {
+      "image_id": 4995,
+      "question": "图中侵害植物的疾病是什么?",
+      "question_id": 4995002
+    },
+    {
+      "image_id": 4995,
+      "question": "图片中果实上的病斑是什么形状?",
+      "question_id": 4995003
+    },
+    {
+      "image_id": 4995,
+      "question": "果实是什么颜色?",
+      "question_id": 4995004
+    },
+    {
+      "image_id": 4995,
+      "question": "病斑上是否具有突起的小黑粒?",
+      "question_id": 4995005
+    },
+    {
+      "image_id": 4995,
+      "question": "病斑的状态是什么?",
+      "question_id": 4995006
+    },
+    {
+      "image_id": 4995,
+      "question": "病斑的数量是多少?",
+      "question_id": 4995007
+    },
+    {
+      "image_id": 5085,
+      "question": "图片中是什么果实?",
+      "question_id": 5085000
+    },
+    {
+      "image_id": 5085,
+      "question": "病斑上的状态是什么?",
+      "question_id": 5085001
+    },
+    {
+      "image_id": 5085,
+      "question": "病斑的颜色是什么?",
+      "question_id": 5085002
+    },
+    {
+      "image_id": 5085,
+      "question": "病斑中央的状态是什么?",
+      "question_id": 5085003
+    },
+    {
+      "image_id": 5085,
+      "question": "病斑的数量是多少?",
+      "question_id": 5085004
+    },
+    {
+      "image_id": 5085,
+      "question": "图中的果实的颜色是什么?",
+      "question_id": 5085005
+    },
+    {
+      "image_id": 5085,
+      "question": "图片中果实上的病斑是什么病害?",
+      "question_id": 5085006
+    },
+    {
+      "image_id": 5085,
+      "question": "病斑的外围是什么状态?",
+      "question_id": 5085007
+    },
+    {
+      "image_id": 5089,
+      "question": "图片中是什么果实?",
+      "question_id": 5089000
+    },
+    {
+      "image_id": 5089,
+      "question": "病斑上的状态是什么?",
+      "question_id": 5089001
+    },
+    {
+      "image_id": 5089,
+      "question": "病斑的颜色是什么?",
+      "question_id": 5089002
+    },
+    {
+      "image_id": 5089,
+      "question": "病斑中央的状态是什么?",
+      "question_id": 5089003
+    },
+    {
+      "image_id": 5089,
+      "question": "病斑的数量是多少?",
+      "question_id": 5089004
+    },
+    {
+      "image_id": 5089,
+      "question": "图中的果实的颜色是什么?",
+      "question_id": 5089005
+    },
+    {
+      "image_id": 5089,
+      "question": "图片中果实上的病斑是什么病害?",
+      "question_id": 5089006
+    },
+    {
+      "image_id": 5089,
+      "question": "病斑的外围是什么状态?",
+      "question_id": 5089007
+    },
+    {
+      "image_id": 5107,
+      "question": "病斑上的状态是什么?",
+      "question_id": 5107001
+    },
+    {
+      "image_id": 5107,
+      "question": "病斑的颜色是什么?",
+      "question_id": 5107002
+    },
+    {
+      "image_id": 5107,
+      "question": "病斑的外围是什么状态?",
+      "question_id": 5107003
+    },
+    {
+      "image_id": 5107,
+      "question": "图片中果实上的病斑是什么病害?",
+      "question_id": 5107004
+    },
+    {
+      "image_id": 5107,
+      "question": "图中的果实的颜色是什么?",
+      "question_id": 5107005
+    },
+    {
+      "image_id": 5107,
+      "question": "病斑的数量是多少?",
+      "question_id": 5107006
+    },
+    {
+      "image_id": 5107,
+      "question": "病斑中央的状态是什么?",
+      "question_id": 5107007
+    },
+    {
+      "image_id": 5114,
+      "question": "图片中是什么果实?",
+      "question_id": 5114000
+    },
+    {
+      "image_id": 5114,
+      "question": "病斑中央的颜色是什么?",
+      "question_id": 5114001
+    },
+    {
+      "image_id": 5114,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 5114002
+    },
+    {
+      "image_id": 5114,
+      "question": "病斑的数量是多少?",
+      "question_id": 5114003
+    },
+    {
+      "image_id": 5114,
+      "question": "病斑中央的状态是什么?",
+      "question_id": 5114004
+    },
+    {
+      "image_id": 5114,
+      "question": "病斑的外围是什么状态?",
+      "question_id": 5114005
+    },
+    {
+      "image_id": 5114,
+      "question": "图片中果实上的病斑是什么病害?",
+      "question_id": 5114006
+    },
+    {
+      "image_id": 5114,
+      "question": "病斑上的状态是什么?",
+      "question_id": 5114007
+    },
+    {
+      "image_id": 5131,
+      "question": "图片中是什么果实?",
+      "question_id": 5131000
+    },
+    {
+      "image_id": 5131,
+      "question": "病斑的数量是多少?",
+      "question_id": 5131001
+    },
+    {
+      "image_id": 5131,
+      "question": "病斑中央的状态是什么?",
+      "question_id": 5131002
+    },
+    {
+      "image_id": 5131,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 5131003
+    },
+    {
+      "image_id": 5131,
+      "question": "病斑中央的颜色是什么?",
+      "question_id": 5131004
+    },
+    {
+      "image_id": 5131,
+      "question": "病斑的外围是什么状态?",
+      "question_id": 5131005
+    },
+    {
+      "image_id": 5131,
+      "question": "图片中果实上的病斑是什么病害?",
+      "question_id": 5131006
+    },
+    {
+      "image_id": 5131,
+      "question": "病斑上的状态是什么?",
+      "question_id": 5131007
+    },
+    {
+      "image_id": 5149,
+      "question": "图片中是什么果实?",
+      "question_id": 5149000
+    },
+    {
+      "image_id": 5149,
+      "question": "病斑的外围是什么状态?",
+      "question_id": 5149001
+    },
+    {
+      "image_id": 5149,
+      "question": "病斑中央的颜色是什么?",
+      "question_id": 5149002
+    },
+    {
+      "image_id": 5149,
+      "question": "病斑上的状态是什么?",
+      "question_id": 5149003
+    },
+    {
+      "image_id": 5149,
+      "question": "病斑中央的状态是什么?",
+      "question_id": 5149004
+    },
+    {
+      "image_id": 5149,
+      "question": "图片中果实上的病斑是什么病害?",
+      "question_id": 5149005
+    },
+    {
+      "image_id": 5149,
+      "question": "果实的颜色是什么?",
+      "question_id": 5149006
+    },
+    {
+      "image_id": 5149,
+      "question": "病斑的数量是多少?",
+      "question_id": 5149007
+    },
+    {
+      "image_id": 5177,
+      "question": "病斑在果实上的位置是什么?",
+      "question_id": 5177001
+    },
+    {
+      "image_id": 5177,
+      "question": "果实上病斑的表面是什么状态?",
+      "question_id": 5177002
+    },
+    {
+      "image_id": 5177,
+      "question": "病斑的颜色是什么?",
+      "question_id": 5177003
+    },
+    {
+      "image_id": 5177,
+      "question": "病斑的形态是什么?",
+      "question_id": 5177004
+    },
+    {
+      "image_id": 5177,
+      "question": "病斑的边缘是什么形态?",
+      "question_id": 5177005
+    },
+    {
+      "image_id": 5177,
+      "question": "病斑上是否存在白色霉状物?",
+      "question_id": 5177006
+    },
+    {
+      "image_id": 5177,
+      "question": "病斑边缘的形状是什么?",
+      "question_id": 5177007
+    },
+    {
+      "image_id": 5177,
+      "question": "图中果实上的病斑是什么病害?",
+      "question_id": 5177008
+    },
+    {
+      "image_id": 5200,
+      "question": "图中的果实是什么?",
+      "question_id": 5200000
+    },
+    {
+      "image_id": 5200,
+      "question": "病斑在果实上的位置是什么?",
+      "question_id": 5200001
+    },
+    {
+      "image_id": 5200,
+      "question": "果实上病斑的表面是什么状态?",
+      "question_id": 5200002
+    },
+    {
+      "image_id": 5200,
+      "question": "病斑的颜色是什么?",
+      "question_id": 5200003
+    },
+    {
+      "image_id": 5200,
+      "question": "病斑的形态是什么?",
+      "question_id": 5200004
+    },
+    {
+      "image_id": 5200,
+      "question": "病斑的边缘是什么形态?",
+      "question_id": 5200005
+    },
+    {
+      "image_id": 5200,
+      "question": "病斑边缘的形状是什么?",
+      "question_id": 5200006
+    },
+    {
+      "image_id": 5200,
+      "question": "图中果实上的病斑是什么病害?",
+      "question_id": 5200007
+    },
+    {
+      "image_id": 5221,
+      "question": "病斑上是否存在白色霉状物?",
+      "question_id": 5221001
+    },
+    {
+      "image_id": 5221,
+      "question": "病斑在果实上的位置是什么?",
+      "question_id": 5221002
+    },
+    {
+      "image_id": 5221,
+      "question": "果实的颜色是什么?",
+      "question_id": 5221003
+    },
+    {
+      "image_id": 5221,
+      "question": "病斑的颜色是什么?",
+      "question_id": 5221004
+    },
+    {
+      "image_id": 5221,
+      "question": "病斑边缘的形状是什么?",
+      "question_id": 5221005
+    },
+    {
+      "image_id": 5221,
+      "question": "图中果实上的病斑是什么病害?",
+      "question_id": 5221006
+    },
+    {
+      "image_id": 5221,
+      "question": "病斑边缘的形状是什么?",
+      "question_id": 5221007
+    },
+    
+    {
+      "image_id": 5253,
+      "question": "图中的果实是什么?",
+      "question_id": 5253000
+    },
+    {
+      "image_id": 5253,
+      "question": "病斑的颜色是什么?",
+      "question_id": 5253001
+    },
+    {
+      "image_id": 5253,
+      "question": "果实的颜色是什么?",
+      "question_id": 5253002
+    },
+    {
+      "image_id": 5253,
+      "question": "病斑在果实上的位置是什么?",
+      "question_id": 5253003
+    },
+    {
+      "image_id": 5253,
+      "question": "病斑上是否存在白色霉状物?",
+      "question_id": 5253004
+    },
+    {
+      "image_id": 5253,
+      "question": "图中果实上的病斑是什么病害?",
+      "question_id": 5253005
+    },
+    {
+      "image_id": 5253,
+      "question": "图中的果实的个数是多少?",
+      "question_id": 5253006
+    },
+    {
+      "image_id": 5253,
+      "question": "图中的病斑的个数是多少?",
+      "question_id": 5253007
+    },
+    {
+      "image_id": 5270,
+      "question": "图中的果实是什么?",
+      "question_id": 5270000
+    },
+    {
+      "image_id": 5270,
+      "question": "图中果实上开裂的部位是什么?",
+      "question_id": 5270001
+    },
+    {
+      "image_id": 5270,
+      "question": "果实上开裂的形状是什么?",
+      "question_id": 5270002
+    },
+    {
+      "image_id": 5270,
+      "question": "果实上的种子是否外露?",
+      "question_id": 5270003
+    },
+    {
+      "image_id": 5270,
+      "question": "果实上的裂纹有多少个?",
+      "question_id": 5270004
+    },
+    {
+      "image_id": 5270,
+      "question": "果实上裂纹的深度是什么?",
+      "question_id": 5270006
+    },
+    {
+      "image_id": 5270,
+      "question": "果实上的裂纹的病害是什么?",
+      "question_id": 5270007
+    },
+    {
+      "image_id": 5260,
+      "question": "图中的果实是什么?",
+      "question_id": 5260000
+    },
+    {
+      "image_id": 5260,
+      "question": "图中果实上开裂的部位是什么?",
+      "question_id": 5260001
+    },
+    {
+      "image_id": 5260,
+      "question": "果实上开裂的形状是什么?",
+      "question_id": 5260002
+    },
+    {
+      "image_id": 5260,
+      "question": "果实上的种子是否外露?",
+      "question_id": 5260003
+    },
+    {
+      "image_id": 5260,
+      "question": "果实上的裂纹有多少个?",
+      "question_id": 5260004
+    },
+    {
+      "image_id": 5260,
+      "question": "果实上裂纹的颜色是什么?",
+      "question_id": 5260005
+    },
+    {
+      "image_id": 5260,
+      "question": "果实上裂纹的深度是什么?",
+      "question_id": 5260006
+    },
+    {
+      "image_id": 5260,
+      "question": "果实上的裂纹的病害是什么?",
+      "question_id": 5260007
+    },
+    {
+      "image_id": 5285,
+      "question": "图像中的果实的个数是多少?",
+      "question_id": 5285001
+    },
+    {
+      "image_id": 5285,
+      "question": "图中果实上开裂的部位是什么?",
+      "question_id": 5285002
+    },
+    {
+      "image_id": 5285,
+      "question": "果实上的裂纹有多少个?",
+      "question_id": 5285003
+    },
+    {
+      "image_id": 5285,
+      "question": "果实上开裂的形状是什么?",
+      "question_id": 5285004
+    },
+    {
+      "image_id": 5285,
+      "question": "果实上的裂纹的状态是什么?",
+      "question_id": 5285006
+    },
+    {
+      "image_id": 5285,
+      "question": "果实上的裂纹的病害是什么?",
+      "question_id": 5285007
+    },
+    {
+      "image_id": 5293,
+      "question": "图中的果实是什么?",
+      "question_id": 5293000
+    },
+    {
+      "image_id": 5293,
+      "question": "果实上的裂纹的病害是什么?",
+      "question_id": 5293001
+    },
+    {
+      "image_id": 5293,
+      "question": "果实上的裂纹的状态是什么?",
+      "question_id": 5293002
+    },
+    {
+      "image_id": 5293,
+      "question": "果实上裂纹的颜色是什么?",
+      "question_id": 5293003
+    },
+    {
+      "image_id": 5293,
+      "question": "果实上开裂的形状是什么?",
+      "question_id": 5293004
+    },
+    {
+      "image_id": 5293,
+      "question": "果实上的裂纹有多少个?",
+      "question_id": 5293005
+    },
+    {
+      "image_id": 5293,
+      "question": "图中果实上开裂的部位是什么?",
+      "question_id": 5293006
+    },
+    {
+      "image_id": 5293,
+      "question": "图像中的果实的个数是多少?",
+      "question_id": 5293007
+    },
+    {
+      "image_id": 5340,
+      "question": "图中的果实是什么?",
+      "question_id": 5340000
+    },
+    {
+      "image_id": 5340,
+      "question": "果实上的裂纹的病害是什么?",
+      "question_id": 5340001
+    },
+    {
+      "image_id": 5340,
+      "question": "果实上的裂纹的状态是什么?",
+      "question_id": 5340002
+    },
+    {
+      "image_id": 5340,
+      "question": "果实上裂纹的颜色是什么?",
+      "question_id": 5340003
+    },
+    {
+      "image_id": 5340,
+      "question": "果实上的裂纹有多少个?",
+      "question_id": 5340004
+    },
+    {
+      "image_id": 5340,
+      "question": "果实上的种子是否外露?",
+      "question_id": 5340005
+    },
+    {
+      "image_id": 5340,
+      "question": "果实上开裂的状态是什么?",
+      "question_id": 5340006
+    },
+    {
+      "image_id": 5340,
+      "question": "图中果实上开裂的部位是什么?",
+      "question_id": 5340007
+    },
+    {
+      "image_id": 5945,
+      "question": "果实上病斑中央的状态是什么?",
+      "question_id": 5945000
+    },
+    {
+      "image_id": 5945,
+      "question": "果实上的病斑的疾病是什么?",
+      "question_id": 5945001
+    },
+    {
+      "image_id": 5945,
+      "question": "病斑的位置是什么部位?",
+      "question_id": 5945002
+    },
+    {
+      "image_id": 5945,
+      "question": "病斑的大小是什么?",
+      "question_id": 5945003
+    },
+    {
+      "image_id": 5945,
+      "question": "果实上病斑的中央是什么颜色?",
+      "question_id": 5945004
+    },
+    {
+      "image_id": 5945,
+      "question": "病斑是什么形状?",
+      "question_id": 5945005
+    },
+    {
+      "image_id": 5945,
+      "question": "病斑上是否存在黑色小斑点?",
+      "question_id": 5945006
+    },
+    {
+      "image_id": 5945,
+      "question": "图中的果实是什么?",
+      "question_id": 5945007
+    },
+    {
+      "image_id": 5976,
+      "question": "果实上病斑中央的状态是什么?",
+      "question_id": 5976000
+    },
+    {
+      "image_id": 5976,
+      "question": "病斑的个数是多少?",
+      "question_id": 5976001
+    },
+    {
+      "image_id": 5976,
+      "question": "果实的个数是多少?",
+      "question_id": 5976002
+    },
+    {
+      "image_id": 5976,
+      "question": "病斑的位置是什么部位?",
+      "question_id": 5976003
+    },
+    {
+      "image_id": 5976,
+      "question": "果实上病斑的中央是什么颜色?",
+      "question_id": 5976004
+    },
+    {
+      "image_id": 5976,
+      "question": "病斑是什么形状?",
+      "question_id": 5976005
+    },
+    {
+      "image_id": 5976,
+      "question": "病斑上是否存在黑色小斑点?",
+      "question_id": 5976006
+    },
+    {
+      "image_id": 5976,
+      "question": "果实上的病斑的疾病是什么?",
+      "question_id": 5976007
+    },
+    {
+      "image_id": 6066,
+      "question": "图中的叶片是什么植物的?",
+      "question_id": 6066000
+    },
+    {
+      "image_id": 6066,
+      "question": "图中叶片上的病斑是什么病害?",
+      "question_id": 6066001
+    },
+    {
+      "image_id": 6066,
+      "question": "图中叶片上有多少个病斑?",
+      "question_id": 6066002
+    },
+    {
+      "image_id": 6066,
+      "question": "图片中的病斑的外围是什么颜色?",
+      "question_id": 6066003
+    },
+    {
+      "image_id": 6066,
+      "question": "病斑中央是什么颜色?",
+      "question_id": 6066004
+    },
+    {
+      "image_id": 6066,
+      "question": "病斑的形状是什么?",
+      "question_id": 6066005
+    },
+    {
+      "image_id": 6066,
+      "question": "图像中叶片上的病斑的状态是什么?",
+      "question_id": 6066006
+    },
+    {
+      "image_id": 6066,
+      "question": "图中病斑的大小是什么?",
+      "question_id": 6066007
+    },
+    {
+      "image_id": 6066,
+      "question": "病斑的排列是否整齐?",
+      "question_id": 6066008
+    },
+    {
+      "image_id": 6061,
+      "question": "图中病斑的大小是什么?",
+      "question_id": 6061000
+    },
+    {
+      "image_id": 6061,
+      "question": "图中的叶片是什么植物的?",
+      "question_id": 6061001
+    },
+    {
+      "image_id": 6061,
+      "question": "图像中叶片上的病斑的状态是什么?",
+      "question_id": 6061002
+    },
+    {
+      "image_id": 6061,
+      "question": "病斑的形状是什么?",
+      "question_id": 6061003
+    },
+    {
+      "image_id": 6061,
+      "question": "病斑中央是什么颜色?",
+      "question_id": 6061004
+    },
+    {
+      "image_id": 6061,
+      "question": "图片中的病斑的外围是什么颜色?",
+      "question_id": 6061005
+    },
+    {
+      "image_id": 6061,
+      "question": "图中叶片上有多少个病斑?",
+      "question_id": 6061006
+    },
+    {
+      "image_id": 6061,
+      "question": "图中叶片上的病斑是什么病害?",
+      "question_id": 6061007
+    },
+    {
+      "image_id": 6073,
+      "question": "图中病斑的大小是什么?",
+      "question_id": 6073000
+    },
+    {
+      "image_id": 6073,
+      "question": "图像中叶片上的病斑的状态是什么?",
+      "question_id": 6073002
+    },
+    {
+      "image_id": 6073,
+      "question": "病斑的形状是什么?",
+      "question_id": 6073003
+    },
+    {
+      "image_id": 6073,
+      "question": "病斑中央是什么颜色?",
+      "question_id": 6073004
+    },
+    {
+      "image_id": 6073,
+      "question": "图中叶片上的病斑是什么病害?",
+      "question_id": 6073005
+    },
+    {
+      "image_id": 6073,
+      "question": "图中叶片上有多少个病斑?",
+      "question_id": 6073006
+    },
+    {
+      "image_id": 6073,
+      "question": "图片中的病斑的外围是什么颜色?",
+      "question_id": 6073007
+    },
+    {
+      "image_id": 6090,
+      "question": "图片中的病斑的外围是什么颜色?",
+      "question_id": 6090000
+    },
+    {
+      "image_id": 6090,
+      "question": "图中病斑的大小是什么?",
+      "question_id": 6090001
+    },
+    {
+      "image_id": 6090,
+      "question": "图中叶片上的病斑是什么病害?",
+      "question_id": 6090003
+    },
+    {
+      "image_id": 6090,
+      "question": "病斑中央是什么颜色?",
+      "question_id": 6090004
+    },
+    {
+      "image_id": 6090,
+      "question": "病斑的形状是什么?",
+      "question_id": 6090005
+    },
+    {
+      "image_id": 6090,
+      "question": "图像中叶片上的病斑的状态是什么?",
+      "question_id": 6090006
+    },
+    {
+      "image_id": 6090,
+      "question": "图中的叶片是什么植物的?",
+      "question_id": 6090007
+    },
+    {
+      "image_id": 6105,
+      "question": "图中的叶片是什么植物的?",
+      "question_id": 6105000
+    },
+    {
+      "image_id": 6105,
+      "question": "图片中的病斑的外围是什么颜色?",
+      "question_id": 6105001
+    },
+    {
+      "image_id": 6105,
+      "question": "图像中叶片上的病斑的状态是什么?",
+      "question_id": 6105002
+    },
+    {
+      "image_id": 6105,
+      "question": "病斑的形状是什么?",
+      "question_id": 6105003
+    },
+    {
+      "image_id": 6105,
+      "question": "病斑中央是什么颜色?",
+      "question_id": 6105004
+    },
+    {
+      "image_id": 6105,
+      "question": "图中叶片上的病斑是什么病害?",
+      "question_id": 6105005
+    },
+    {
+      "image_id": 6105,
+      "question": "图中叶片上有多少个病斑?",
+      "question_id": 6105006
+    },
+    {
+      "image_id": 6105,
+      "question": "图中病斑的大小是什么?",
+      "question_id": 6105007
+    },
+    {
+      "image_id": 6114,
+      "question": "图中的叶片是什么植物的?",
+      "question_id": 6114000
+    },
+    {
+      "image_id": 6114,
+      "question": "图中叶片上的病斑是什么病害?",
+      "question_id": 6114001
+    },
+    {
+      "image_id": 6114,
+      "question": "图中叶片上有多少个病斑?",
+      "question_id": 6114002
+    },
+    {
+      "image_id": 6114,
+      "question": "图片中的病斑的外围是什么颜色?",
+      "question_id": 6114003
+    },
+    {
+      "image_id": 6114,
+      "question": "病斑中央是什么颜色?",
+      "question_id": 6114004
+    },
+    {
+      "image_id": 6114,
+      "question": "病斑的形状是什么?",
+      "question_id": 6114005
+    },
+    {
+      "image_id": 6114,
+      "question": "病斑的形态是什么?",
+      "question_id": 6114006
+    },
+    {
+      "image_id": 6114,
+      "question": "图中的物体是果实还是叶片?",
+      "question_id": 6114007
+    },
+    {
+      "image_id": 6142,
+      "question": "图中的叶片是什么植物的?",
+      "question_id": 6142000
+    },
+    {
+      "image_id": 6142,
+      "question": "图中的物体是果实还是叶片?",
+      "question_id": 6142001
+    },
+    {
+      "image_id": 6142,
+      "question": "病斑的形态是什么?",
+      "question_id": 6142002
+    },
+    {
+      "image_id": 6142,
+      "question": "病斑的形状是什么?",
+      "question_id": 6142003
+    },
+    {
+      "image_id": 6142,
+      "question": "病斑中央是什么颜色?",
+      "question_id": 6142004
+    },
+    {
+      "image_id": 6142,
+      "question": "图片中的病斑的外围是什么颜色?",
+      "question_id": 6142005
+    },
+    {
+      "image_id": 6142,
+      "question": "图中叶片上有多少个病斑?",
+      "question_id": 6142006
+    },
+    {
+      "image_id": 6142,
+      "question": "图中叶片上的病斑是什么病害?",
+      "question_id": 6142007
+    },
+    {
+      "image_id": 6212,
+      "question": "图中的叶片是什么植物的?",
+      "question_id": 6212000
+    },
+    {
+      "image_id": 6212,
+      "question": "图中的物体是果实还是叶片?",
+      "question_id": 6212001
+    },
+    {
+      "image_id": 6212,
+      "question": "图中叶片上的病斑是什么病害?",
+      "question_id": 6212002
+    },
+    {
+      "image_id": 6212,
+      "question": "图中叶片上有多少个病斑?",
+      "question_id": 6212003
+    },
+    {
+      "image_id": 6212,
+      "question": "图片中的病斑的外围是什么颜色?",
+      "question_id": 6212004
+    },
+    {
+      "image_id": 6212,
+      "question": "病斑中央是什么颜色?",
+      "question_id": 6212005
+    },
+    {
+      "image_id": 6212,
+      "question": "病斑的形状是什么?",
+      "question_id": 6212006
+    },
+    {
+      "image_id": 6212,
+      "question": "病斑的形态是什么?",
+      "question_id": 6212007
+    },
+    {
+      "image_id": 6408,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6408000
+    },
+    {
+      "image_id": 6408,
+      "question": "果实上病斑的状态是什么?",
+      "question_id": 6408001
+    },
+    {
+      "image_id": 6408,
+      "question": "图中果实上病斑的质感是什么?",
+      "question_id": 6408002
+    },
+    {
+      "image_id": 6408,
+      "question": "图中的果实是什么?",
+      "question_id": 6408003
+    },
+    {
+      "image_id": 6408,
+      "question": "病斑发生在果实的什么部位?",
+      "question_id": 6408004
+    },
+    {
+      "image_id": 6408,
+      "question": "果实上病斑的颜色是什么?",
+      "question_id": 6408005
+    },
+    {
+      "image_id": 6408,
+      "question": "图中病斑的个数是多少?",
+      "question_id": 6408006
+    },
+    {
+      "image_id": 6408,
+      "question": "病斑在果实上的形状是什么?",
+      "question_id": 6408007
+    },
+    {
+      "image_id": 6411,
+      "question": "图中病斑的个数是多少?",
+      "question_id": 6411000
+    },
+    {
+      "image_id": 6411,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6411001
+    },
+    {
+      "image_id": 6411,
+      "question": "病斑在果实上的形状是什么?",
+      "question_id": 6411002
+    },
+    {
+      "image_id": 6411,
+      "question": "果实上病斑的颜色是什么?",
+      "question_id": 6411003
+    },
+    {
+      "image_id": 6411,
+      "question": "病斑发生在果实的什么部位?",
+      "question_id": 6411004
+    },
+    {
+      "image_id": 6411,
+      "question": "图中的果实是什么?",
+      "question_id": 6411005
+    },
+    {
+      "image_id": 6411,
+      "question": "图中果实上病斑的质感是什么?",
+      "question_id": 6411006
+    },
+    {
+      "image_id": 6411,
+      "question": "果实上病斑的状态是什么?",
+      "question_id": 6411007
+    },
+    {
+      "image_id": 6444,
+      "question": "病斑发生在果实的什么部位?",
+      "question_id": 6444001
+    },
+    {
+      "image_id": 6444,
+      "question": "病斑的形态是什么?",
+      "question_id": 6444002
+    },
+    {
+      "image_id": 6444,
+      "question": "图中病斑的个数是多少?",
+      "question_id": 6444003
+    },
+    {
+      "image_id": 6444,
+      "question": "图中果实上病斑的质感是什么?",
+      "question_id": 6444004
+    },
+    {
+      "image_id": 6444,
+      "question": "果实上的病斑是否肿胀?",
+      "question_id": 6444005
+    },
+    {
+      "image_id": 6444,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6444006
+    },
+    {
+      "image_id": 6444,
+      "question": "果实果肉的颜色是什么?",
+      "question_id": 6444007
+    },
+    {
+      "image_id": 6502,
+      "question": "图中是什么果实?",
+      "question_id": 6502000
+    },
+    {
+      "image_id": 6502,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6502001
+    },
+    {
+      "image_id": 6502,
+      "question": "果实上的病斑的形状是什么?",
+      "question_id": 6502002
+    },
+    {
+      "image_id": 6502,
+      "question": "果实上有几处病斑?",
+      "question_id": 6502003
+    },
+    {
+      "image_id": 6502,
+      "question": "果实上病斑中央的颜色是什么?",
+      "question_id": 6502004
+    },
+    {
+      "image_id": 6502,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 6502005
+    },
+    {
+      "image_id": 6502,
+      "question": "病斑的大小是什么?",
+      "question_id": 6502006
+    },
+    {
+      "image_id": 6502,
+      "question": "病斑的边缘是否光滑?",
+      "question_id": 6502007
+    },
+    {
+      "image_id": 6502,
+      "question": "病斑在果实上的位置是什么?",
+      "question_id": 6502008
+    },
+    {
+      "image_id": 6503,
+      "question": "图中是什么果实?",
+      "question_id": 6503000
+    },
+    {
+      "image_id": 6503,
+      "question": "果实上的病斑的形状是什么?",
+      "question_id": 6503001
+    },
+    {
+      "image_id": 6503,
+      "question": "果实上病斑中央的颜色是什么?",
+      "question_id": 6503002
+    },
+    {
+      "image_id": 6503,
+      "question": "病斑的形状是什么?",
+      "question_id": 6503003
+    },
+    {
+      "image_id": 6503,
+      "question": "病斑的大小是什么?",
+      "question_id": 6503004
+    },
+    {
+      "image_id": 6503,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 6503005
+    },
+    {
+      "image_id": 6503,
+      "question": "果实上有几处病斑?",
+      "question_id": 6503006
+    },
+    {
+      "image_id": 6503,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6503007
+    },
+    {
+      "image_id": 6510,
+      "question": "病斑的状态是什么?",
+      "question_id": 6510000
+    },
+    {
+      "image_id": 6510,
+      "question": "果实上病斑中央的颜色是什么?",
+      "question_id": 6510001
+    },
+    {
+      "image_id": 6510,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 6510002
+    },
+    {
+      "image_id": 6510,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6510003
+    },
+    {
+      "image_id": 6510,
+      "question": "图中是什么果实?",
+      "question_id": 6510004
+    },
+    {
+      "image_id": 6510,
+      "question": "果实上有几处病斑?",
+      "question_id": 6510005
+    },
+    {
+      "image_id": 6510,
+      "question": "病斑的大小是什么?",
+      "question_id": 6510006
+    },
+    {
+      "image_id": 6510,
+      "question": "果实上的病斑的形状是什么?",
+      "question_id": 6510007
+    },
+    {
+      "image_id": 6514,
+      "question": "果实上病斑中央的颜色是什么?",
+      "question_id": 6514000
+    },
+    {
+      "image_id": 6514,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6514001
+    },
+    {
+      "image_id": 6514,
+      "question": "果实上有几处病斑?",
+      "question_id": 6514002
+    },
+    {
+      "image_id": 6514,
+      "question": "果实上的病斑的形状是什么?",
+      "question_id": 6514003
+    },
+    {
+      "image_id": 6514,
+      "question": "病斑的状态是什么?",
+      "question_id": 6514004
+    },
+    {
+      "image_id": 6514,
+      "question": "病斑的大小是什么?",
+      "question_id": 6514005
+    },
+    {
+      "image_id": 6514,
+      "question": "图中是什么果实?",
+      "question_id": 6514006
+    },
+    {
+      "image_id": 6514,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 6514007
+    },
+    {
+      "image_id": 6516,
+      "question": "果实上有几处病斑?",
+      "question_id": 6516000
+    },
+    {
+      "image_id": 6516,
+      "question": "图中是什么果实?",
+      "question_id": 6516001
+    },
+    {
+      "image_id": 6516,
+      "question": "病斑的大小是什么?",
+      "question_id": 6516002
+    },
+    {
+      "image_id": 6516,
+      "question": "果实上病斑中央的颜色是什么?",
+      "question_id": 6516003
+    },
+    {
+      "image_id": 6516,
+      "question": "病斑的状态是什么?",
+      "question_id": 6516004
+    },
+    {
+      "image_id": 6516,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 6516005
+    },
+    {
+      "image_id": 6516,
+      "question": "果实上的病斑的形状是什么?",
+      "question_id": 6516006
+    },
+    {
+      "image_id": 6516,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6516007
+    },
+    {
+      "image_id": 6520,
+      "question": "果实上有几处病斑?",
+      "question_id": 6520000
+    },
+    {
+      "image_id": 6520,
+      "question": "果实上病斑中央的颜色是什么?",
+      "question_id": 6520001
+    },
+    {
+      "image_id": 6520,
+      "question": "病斑的大小是什么?",
+      "question_id": 6520002
+    },
+    {
+      "image_id": 6520,
+      "question": "病斑的边缘是否光滑?",
+      "question_id": 6520003
+    },
+    {
+      "image_id": 6520,
+      "question": "病斑边缘是什么状态的?",
+      "question_id": 6520004
+    },
+    {
+      "image_id": 6520,
+      "question": "病斑在果实上的位置是什么?",
+      "question_id": 6520005
+    },
+    {
+      "image_id": 6520,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6520006
+    },
+    {
+      "image_id": 6520,
+      "question": "图中的果实是什么?",
+      "question_id": 6520007
+    },
+    {
+      "image_id": 6536,
+      "question": "病斑的大小是什么?",
+      "question_id": 6536000
+    },
+    {
+      "image_id": 6536,
+      "question": "果实上病斑中央的颜色是什么?",
+      "question_id": 6536001
+    },
+    {
+      "image_id": 6536,
+      "question": "病斑在果实上的位置是什么?",
+      "question_id": 6536002
+    },
+    {
+      "image_id": 6536,
+      "question": "图中的果实是什么?",
+      "question_id": 6536003
+    },
+    {
+      "image_id": 6536,
+      "question": "果实上有几处病斑?",
+      "question_id": 6536004
+    },
+    {
+      "image_id": 6536,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6536005
+    },
+    {
+      "image_id": 6536,
+      "question": "病斑边缘是什么状态的?",
+      "question_id": 6536006
+    },
+    {
+      "image_id": 6536,
+      "question": "病斑的大小是什么?",
+      "question_id": 6536007
+    },
+    {
+      "image_id": 6532,
+      "question": "病斑的大小是什么?",
+      "question_id": 6532000
+    },
+    {
+      "image_id": 6532,
+      "question": "病斑在果实上的位置是什么?",
+      "question_id": 6532001
+    },
+    {
+      "image_id": 6532,
+      "question": "果实上有几处病斑?",
+      "question_id": 6532002
+    },
+    {
+      "image_id": 6532,
+      "question": "病斑的边缘是否光滑?",
+      "question_id": 6532003
+    },
+    {
+      "image_id": 6532,
+      "question": "病斑边缘是什么状态的?",
+      "question_id": 6532004
+    },
+    {
+      "image_id": 6532,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6532005
+    },
+    {
+      "image_id": 6532,
+      "question": "图中的果实是什么?",
+      "question_id": 6532006
+    },
+    {
+      "image_id": 6532,
+      "question": "果实上病斑中央的颜色是什么?",
+      "question_id": 6532007
+    },
+    {
+      "image_id": 6539,
+      "question": "图中的果实是什么?",
+      "question_id": 6539000
+    },
+    {
+      "image_id": 6539,
+      "question": "病斑的大小是什么?",
+      "question_id": 6539001
+    },
+    {
+      "image_id": 6539,
+      "question": "果实上病斑中央的颜色是什么?",
+      "question_id": 6539002
+    },
+    {
+      "image_id": 6539,
+      "question": "病斑在果实上的位置是什么?",
+      "question_id": 6539003
+    },
+    {
+      "image_id": 6539,
+      "question": "病斑边缘是什么状态的?",
+      "question_id": 6539004
+    },
+    {
+      "image_id": 6539,
+      "question": "病斑的边缘是否光滑?",
+      "question_id": 6539005
+    },
+    {
+      "image_id": 6539,
+      "question": "病斑的状态是什么?",
+      "question_id": 6539006
+    },
+    {
+      "image_id": 6539,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6539007
+    },
+    {
+      "image_id": 6567,
+      "question": "病斑的状态是什么?",
+      "question_id": 6567000
+    },
+    {
+      "image_id": 6567,
+      "question": "果实上病斑中央的颜色是什么?",
+      "question_id": 6567001
+    },
+    {
+      "image_id": 6567,
+      "question": "病斑边缘是什么状态的?",
+      "question_id": 6567002
+    },
+    {
+      "image_id": 6567,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6567003
+    },
+    {
+      "image_id": 6567,
+      "question": "图中的果实是什么?",
+      "question_id": 6567004
+    },
+    {
+      "image_id": 6567,
+      "question": "病斑的边缘是否光滑?",
+      "question_id": 6567005
+    },
+    {
+      "image_id": 6567,
+      "question": "病斑在果实上的位置是什么?",
+      "question_id": 6567006
+    },
+    {
+      "image_id": 6567,
+      "question": "病斑的大小是什么?",
+      "question_id": 6567007
+    },
+    {
+      "image_id": 6576,
+      "question": "果实上病斑中央的颜色是什么?",
+      "question_id": 6576000
+    },
+    {
+      "image_id": 6576,
+      "question": "图中侵染果实的疾病是什么?",
+      "question_id": 6576001
+    },
+    {
+      "image_id": 6576,
+      "question": "病斑的边缘是否光滑?",
+      "question_id": 6576002
+    },
+    {
+      "image_id": 6576,
+      "question": "病斑的大小是什么?",
+      "question_id": 6576003
+    },
+    {
+      "image_id": 6576,
+      "question": "病斑的状态是什么?",
+      "question_id": 6576004
+    },
+    {
+      "image_id": 6576,
+      "question": "病斑在果实上的位置是什么?",
+      "question_id": 6576005
+    },
+    {
+      "image_id": 6576,
+      "question": "图中的果实是什么?",
+      "question_id": 6576006
+    },
+    {
+      "image_id": 6576,
+      "question": "病斑边缘是什么状态的?",
+      "question_id": 6576007
+    },
+    {
+      "image_id": 6680,
+      "question": "图片中的果实是什么?",
+      "question_id": 6680000
+    },
+    {
+      "image_id": 6680,
+      "question": "裂口在果实的什么位置?",
+      "question_id": 6680001
+    },
+    {
+      "image_id": 6680,
+      "question": "裂口的数量是多少?",
+      "question_id": 6680002
+    },
+    {
+      "image_id": 6680,
+      "question": "裂口的深度是什么?",
+      "question_id": 6680003
+    },
+    {
+      "image_id": 6680,
+      "question": "果实上的裂纹是什么方向?",
+      "question_id": 6680004
+    },
+    {
+      "image_id": 6680,
+      "question": "病斑的裂口是否规则?",
+      "question_id": 6680005
+    },
+    {
+      "image_id": 6680,
+      "question": "病斑的裂口里是什么颜色?",
+      "question_id": 6680006
+    },
+    {
+      "image_id": 6680,
+      "question": "图片中果实上的病斑是什么病害?",
+      "question_id": 6680007
+    },
+    {
+      "image_id": 6758,
+      "question": "病害侵染了果实的什么部位?",
+      "question_id": 6758001
+    },
+    {
+      "image_id": 6758,
+      "question": "病斑的状态是什么?",
+      "question_id": 6758002
+    },
+    {
+      "image_id": 6758,
+      "question": "病斑的表面是否平整?",
+      "question_id": 6758003
+    },
+    {
+      "image_id": 6758,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 6758004
+    },
+    {
+      "image_id": 6758,
+      "question": "裂口的深度是什么?",
+      "question_id": 6758005
+    },
+    {
+      "image_id": 6758,
+      "question": "图中有多少个病斑?",
+      "question_id": 6758006
+    },
+    {
+      "image_id": 6758,
+      "question": "病斑的颜色是什么?",
+      "question_id": 6758007
+    },
+    {
+      "image_id": 6771,
+      "question": "病斑的边缘是什么颜色?",
+      "question_id": 6771000
+    },
+    {
+      "image_id": 6771,
+      "question": "病斑中央的颜色是什么 ?",
+      "question_id": 6771001
+    },
+    {
+      "image_id": 6771,
+      "question": "病斑的形状是什么?",
+      "question_id": 6771002
+    },
+    {
+      "image_id": 6771,
+      "question": "果实的颜色是什么?",
+      "question_id": 6771003
+    },
+    {
+      "image_id": 6771,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 6771004
+    },
+    {
+      "image_id": 6771,
+      "question": "果实的个数是多少?",
+      "question_id": 6771005
+    },
+    {
+      "image_id": 6771,
+      "question": "图中有多少个病斑?",
+      "question_id": 6771006
+    },
+    {
+      "image_id": 6815,
+      "question": "病害侵染了果实的什么部位?",
+      "question_id": 6815000
+    },
+    {
+      "image_id": 6815,
+      "question": "病斑的状态是什么?",
+      "question_id": 6815001
+    },
+    {
+      "image_id": 6815,
+      "question": "图中侵染果实的病害是什么?",
+      "question_id": 6815002
+    },
+    {
+      "image_id": 6815,
+      "question": "病斑中央的颜色是什么?",
+      "question_id": 6815003
+    },
+    {
+      "image_id": 6815,
+      "question": "病斑的表面是否平整?",
+      "question_id": 6815004
+    },
+    {
+      "image_id": 6815,
+      "question": "病斑中央的形态是什么?",
+      "question_id": 6815005
+    },
+    {
+      "image_id": 6815,
+      "question": "病斑的边缘是什么颜色?",
+      "question_id": 6815007
+    },
+    {
+      "image_id": 7096,
+      "question": "图片中是什么果实?",
+      "question_id": 7096000
+    },
+    {
+      "image_id": 7096,
+      "question": "图中侵染果实的病害是什么?",
+      "question_id": 7096001
+    },
+    {
+      "image_id": 7096,
+      "question": "图中果实上有几个病斑?",
+      "question_id": 7096002
+    },
+    {
+      "image_id": 7096,
+      "question": "果实上的病斑中央的形态是什么?",
+      "question_id": 7096003
+    },
+    {
+      "image_id": 7096,
+      "question": "病斑中央的颜色是什么?",
+      "question_id": 7096004
+    },
+    {
+      "image_id": 7096,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 7096005
+    },
+    {
+      "image_id": 7096,
+      "question": "病斑侵染果实的位置是什么?",
+      "question_id": 7096006
+    },
+    {
+      "image_id": 7096,
+      "question": "病斑在果实上的状态是什么?",
+      "question_id": 7096007
+    },
+    {
+      "image_id": 7100,
+      "question": "图中侵染果实的病害是什么?",
+      "question_id": 7100001
+    },
+    {
+      "image_id": 7100,
+      "question": "果实上的病斑中央的形态是什么?",
+      "question_id": 7100002
+    },
+    {
+      "image_id": 7100,
+      "question": "病斑中央的颜色是什么?",
+      "question_id": 7100003
+    },
+    {
+      "image_id": 7100,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 7100004
+    },
+    {
+      "image_id": 7100,
+      "question": "病斑侵染果实的位置是什么?",
+      "question_id": 7100005
+    },
+    {
+      "image_id": 7100,
+      "question": "病斑的形状是什么?",
+      "question_id": 7100006
+    },
+    {
+      "image_id": 7100,
+      "question": "病斑在果实上的状态是什么?",
+      "question_id": 7100007
+    },
+    {
+      "image_id": 7107,
+      "question": "图中侵染果实的病害是什么?",
+      "question_id": 7107000
+    },
+    {
+      "image_id": 7107,
+      "question": "病斑中央的颜色是什么?",
+      "question_id": 7107001
+    },
+    {
+      "image_id": 7107,
+      "question": "病斑的形状是什么?",
+      "question_id": 7107002
+    },
+    {
+      "image_id": 7107,
+      "question": "病斑在果实上的状态是什么?",
+      "question_id": 7107003
+    },
+    {
+      "image_id": 7107,
+      "question": "图片中是什么果实?",
+      "question_id": 7107004
+    },
+    {
+      "image_id": 7107,
+      "question": "病斑侵染果实的位置是什么?",
+      "question_id": 7107005
+    },
+    {
+      "image_id": 7107,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 7107006
+    },
+    {
+      "image_id": 7107,
+      "question": "果实上的病斑中央的形态是什么?",
+      "question_id": 7107007
+    },
+    {
+      "image_id": 7130,
+      "question": "病斑的边界是否清晰明显?",
+      "question_id": 7130000
+    },
+    {
+      "image_id": 7130,
+      "question": "图中的果实的颜色是什么?",
+      "question_id": 7130001
+    },
+    {
+      "image_id": 7130,
+      "question": "病斑上是否具有红色条纹?",
+      "question_id": 7130002
+    },
+    {
+      "image_id": 7130,
+      "question": "果实上的病斑中央的形态是什么?",
+      "question_id": 7130003
+    },
+    {
+      "image_id": 7130,
+      "question": "图中果实上有几个病斑?",
+      "question_id": 7130004
+    },
+    {
+      "image_id": 7130,
+      "question": "病斑的大小是什么?",
+      "question_id": 7130005
+    },
+    {
+      "image_id": 7130,
+      "question": "病斑外围的颜色是什么?",
+      "question_id": 7130006
+    },
+    {
+      "image_id": 7130,
+      "question": "图中侵染果实的病害是什么?",
+      "question_id": 7130007
+    },
+    {
+      "image_id": 7163,
+      "question": "图片中是什么果实?",
+      "question_id": 7163000
+    },
+    {
+      "image_id": 7163,
+      "question": "病斑上是否具有红色条纹?",
+      "question_id": 7163001
+    },
+    {
+      "image_id": 7163,
+      "question": "病斑侵染果实的位置是什么?",
+      "question_id": 7163002
+    },
+    {
+      "image_id": 7163,
+      "question": "病斑的形状是什么?",
+      "question_id": 7163003
+    },
+    {
+      "image_id": 7163,
+      "question": "图中果实上有几个病斑?",
+      "question_id": 7163004
+    },
+    {
+      "image_id": 7163,
+      "question": "病斑在果实上的状态是什么?",
+      "question_id": 7163005
+    },
+    {
+      "image_id": 7163,
+      "question": "病斑的边界是否清晰明显?",
+      "question_id": 7163006
+    },
+    {
+      "image_id": 7163,
+      "question": "图中侵染果实的病害是什么?",
+      "question_id": 7163007
+    },
+    {
+      "image_id": 7178,
+      "question": "病斑上是否具有红色条纹?",
+      "question_id": 7178000
+    },
+    {
+      "image_id": 7178,
+      "question": "病斑的形状是什么?",
+      "question_id": 7178001
+    },
+    {
+      "image_id": 7178,
+      "question": "病斑在果实上的状态是什么?",
+      "question_id": 7178002
+    },
+    {
+      "image_id": 7178,
+      "question": "图中侵染果实的病害是什么?",
+      "question_id": 7178003
+    },
+    {
+      "image_id": 7178,
+      "question": "病斑的边界是否清晰明显?",
+      "question_id": 7178005
+    },
+    {
+      "image_id": 7178,
+      "question": "图中果实上有几个病斑?",
+      "question_id": 7178006
+    }
+  ]
+}

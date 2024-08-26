@@ -1,0 +1,9 @@
+{"questions": [{"image_id": 1735, "question": "图像中有几个果实?", "question_id": 1735000},
+    {"image_id": 1735, "question": "图像中有几个病斑?", "question_id": 1735001},
+    {"image_id": 1735, "question": "果实的主要颜色是什么?", "question_id": 1735002},
+    {"image_id": 1735, "question": "病斑表面的形状是什么?", "question_id": 1735003},
+    {"image_id": 1735, "question": "病斑中心是否凹陷?", "question_id": 1735004},
+    {"image_id": 1735, "question": "病斑的颜色是什么?", "question_id": 1735005},
+    {"image_id": 1735, "question": "图像中的病斑的疾病是枣炭疽病吗?", "question_id": 1735006},
+    {"image_id": 1735, "question": "果实的疾病是什么?", "question_id": 1735007}
+]}

@@ -1,0 +1,474 @@
+{"annotations": [
+  {
+      "question_type": "是多少",
+      "multiple_choice_answer": "1",
+      "answers": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "image_id": 1735,
+      "answer_type": "number",
+      "question_id": 1735000
+    },
+    {
+      "question_type": "是多少",
+      "multiple_choice_answer": "1",
+      "answers": [
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "2",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "1",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "image_id": 1735,
+      "answer_type": "number",
+      "question_id": 1735001
+    },
+    {
+      "question_type": "是什么",
+      "multiple_choice_answer": "黄褐色",
+      "answers": [
+        {
+          "answer": "黄褐色",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "黄褐色",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "黄褐色",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "黄褐色",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "黄褐色",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "黄色",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "黄褐色",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "黄褐色",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "黄褐色",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "黄褐色",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "image_id": 1735,
+      "answer_type": "other",
+      "question_id": 1735005
+    },
+    {
+      "question_type": "是什么",
+      "multiple_choice_answer": "不规则形",
+      "answers": [
+        {
+          "answer": "不规则形",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "不规则形",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "不规则形",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "不规则形",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "不规则形",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "圆形",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "不规则形",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "不规则形",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "不规则形",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "不规则形",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "image_id": 1735,
+      "answer_type": "other",
+      "question_id": 1735003
+    },
+    {
+      "question_type": "是否",
+      "multiple_choice_answer": "是",
+      "answers": [
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "不是",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "image_id": 1735,
+      "answer_type": "yes/no",
+      "question_id": 1735004
+    },
+    {
+      "question_type": "是什么",
+      "multiple_choice_answer": "淡红色",
+      "answers": [
+        {
+          "answer": "淡红色",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "淡红色",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "淡红色",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "淡红色",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "淡红色",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "绿色",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "淡红色",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "淡红色",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "淡红色",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "淡红色",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "image_id": 1735,
+      "answer_type": "other",
+      "question_id": 1735002
+    },
+    {
+      "question_type": "是吗",
+      "multiple_choice_answer": "是",
+      "answers": [
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "不是",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "是",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "image_id": 1735,
+      "answer_type": "yes/no",
+      "question_id": 1735006
+    },
+    {
+      "question_type": "是什么",
+      "multiple_choice_answer": "枣炭疽病",
+      "answers": [
+        {
+          "answer": "枣炭疽病",
+          "answer_confidence": "yes",
+          "answer_id": 1
+        },
+        {
+          "answer": "枣炭疽病",
+          "answer_confidence": "yes",
+          "answer_id": 2
+        },
+        {
+          "answer": "枣炭疽病",
+          "answer_confidence": "yes",
+          "answer_id": 3
+        },
+        {
+          "answer": "枣炭疽病",
+          "answer_confidence": "yes",
+          "answer_id": 4
+        },
+        {
+          "answer": "枣炭疽病",
+          "answer_confidence": "yes",
+          "answer_id": 5
+        },
+        {
+          "answer": "炭疽病",
+          "answer_confidence": "maybe",
+          "answer_id": 6
+        },
+        {
+          "answer": "枣炭疽病",
+          "answer_confidence": "yes",
+          "answer_id": 7
+        },
+        {
+          "answer": "枣炭疽病",
+          "answer_confidence": "yes",
+          "answer_id": 8
+        },
+        {
+          "answer": "枣炭疽病",
+          "answer_confidence": "yes",
+          "answer_id": 9
+        },
+        {
+          "answer": "枣炭疽病",
+          "answer_confidence": "yes",
+          "answer_id": 10
+        }
+      ],
+      "image_id": 1735,
+      "answer_type": "other",
+      "question_id": 1735007
+    }
+]}
